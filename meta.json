@@ -1,0 +1,23 @@
+{
+  "repo": "hitfilm-pro-2026",
+  "product": "HitFilm Pro 2026",
+  "kind": "video",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new4",
+  "format": "license-md-toolix-v1",
+  "category": "vfx-studio",
+  "topics": [
+    "hitfilm-pro",
+    "visual-effects-studio",
+    "compositing-desktop",
+    "motion-graphics-tools",
+    "hitfilm-windows",
+    "vfx-timeline",
+    "hitfilm-2026",
+    "how-to-install-hitfilm",
+    "hitfilm-desktop-package",
+    "shot-finishing-suite"
+  ],
+  "site": "toolix.me"
+}
